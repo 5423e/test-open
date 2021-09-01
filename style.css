@@ -4,7 +4,7 @@ body {
   font-family: "Montserrat", regular;
   font-size: 16px;
   line-height: 32px;
-  color: #ffffff;
+  color: #000000;
   background-color: #f2f4f6;
   background-image: url("img/hero-bg.png");
   background-repeat: no-repeat;
@@ -15,6 +15,7 @@ body {
   max-width: 928px;
   margin: 0 auto;
   padding: 0 16px;
+  color:#ffffff
 }
 
 .page-header {
