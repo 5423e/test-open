@@ -38,7 +38,7 @@ body {
   background-position: left;
 }
 
-img header-logo {
+/* img header-logo {
   text-align: right;
   padding-left: 80px;
   padding-top: 56px;
@@ -50,7 +50,7 @@ img header-logo {
   padding-left: 80px;
   padding-top: 56px;
   background-image: url("img/menu-header.svg");
-}
+} */
 
 .hero-image {
   margin-bottom: 620px;
