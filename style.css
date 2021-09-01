@@ -97,7 +97,7 @@ h2 {
 .user-image {
   margin: 0 0 32px;
   text-align: center;
-  padding-inline: 55px;
+  margin-inline: 55px;
 }
 
 .intro h3,
