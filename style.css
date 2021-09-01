@@ -24,6 +24,14 @@ body {
   padding: 32px 0 32px;
 }
 
+header-logo {
+  text-align: left;
+}
+
+header-menu {
+  text-align: right;
+}
+
 .page-header .container,
 .page-footer .container {
   max-width: 1408px;
