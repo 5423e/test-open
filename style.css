@@ -24,11 +24,11 @@ body {
   padding: 32px 0 32px;
 }
 
-header-logo {
+.header-logo {
   text-align: left;
 }
 
-header-menu {
+.header-menu {
   text-align: right;
 }
 
