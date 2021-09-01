@@ -92,7 +92,7 @@ h2 {
   font-size: 64px;
   line-height: 80px;
   font-weight: 400;
-  text-align: left;
+  text-align: center;
 }
 
 .about-us .subheading p {
@@ -111,8 +111,6 @@ h2 {
 .family-favorites img {
 vertical-align: top;
 }
-
-.family-favorites
 
 .user-image {
   margin: 0 0 32px;
@@ -193,9 +191,7 @@ vertical-align: top;
   text-transform: uppercase;
   border-radius: 4px;
   background-color: #ffffff;
-  border-radius: 2;
-  border-color: 323232;
-  border-radius: 4;
+  border-color: #323232;
   color: #000000;
 }
 
