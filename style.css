@@ -1,12 +1,12 @@
 body {
   margin: 0;
   min-width: 960px;
-  font-family: "Roboto", regular;
+  font-family: "Libre Baskerville", regular;
   font-size: 16px;
   line-height: 32px;
-  color: #1a1a1a;
+  color: #ffffff;
   background-color: #f2f4f6;
-  background-image: url("img/hero-bg.jpg");
+  background-image: url("img/hero-bg.png");
   background-repeat: no-repeat;
   background-position: top center;
 }
