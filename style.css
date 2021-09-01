@@ -24,14 +24,6 @@ body {
   padding: 32px 0 32px;
 }
 
-.header-logo {
-  text-align: left;
-}
-
-.header-menu {
-  text-align: right;
-}
-
 .page-header .container,
 .page-footer .container {
   max-width: 1408px;
@@ -46,14 +38,18 @@ body {
   background-position: left;
 }
 
-.header-email {
-  padding-left: 30px;
-  background-image: url("img/icon-email-header.svg");
+.header-logo {
+  text-align: right;
+  padding-left: 80px;
+  padding-top: 56px;
+  background-image: url("img/logo-header.svg");
 }
 
-.header-phone {
-  padding-left: 25px;
-  background-image: url("img/icon-phone-header.svg");
+.header-menu {
+  text-align: left;
+  padding-left: 80px;
+  padding-top: 56px;
+  background-image: url("img/menu-header.svg");
 }
 
 .hero-image {
