@@ -86,7 +86,7 @@ h2 {
   margin: 0 0 120px;
 }
 
-.subheading {
+.about-us .subheading {
   margin: 0 0 56px;
   font-family: "LibreBaskerville", regular;
   font-size: 64px;
@@ -95,16 +95,17 @@ h2 {
   text-align: left;
 }
 
-.subheading p {
+.about-us .subheading p {
   font-family: "SourceSansPro", normal;
   font-size: 28px;
   line-height: 40px;
+  text-align: left;
   
 }
 
-.figure {
+.about-us .figure {
   text-align: right;
-
+ 
 }
 
 .user-image {
