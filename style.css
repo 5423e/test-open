@@ -39,27 +39,20 @@ body {
   text-align: right;
 }
 
-.page-header a {
-  margin-left: 56px;
-  color: #288be6;
-  text-decoration: none;
-  background-repeat: no-repeat;
-  background-position: left;
-}
 
-/* img header-logo {
+img .page-header {
   text-align: right;
   padding-left: 80px;
   padding-top: 56px;
   background-image: url("img/logo-header.png");
 }
 
-.page-header header-menu {
+img .page-header {
   text-align: left;
   padding-left: 80px;
   padding-top: 56px;
   background-image: url("img/menu-header.svg");
-} */
+} 
 
 .hero-image {
   margin-bottom: 620px;
