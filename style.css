@@ -37,21 +37,6 @@ body {
 .page-footer .container {
   max-width: 1408px;
   text-align: right;
-}
-
-
-img .page-header {
-  text-align: right;
-  padding-left: 80px;
-  padding-top: 56px;
-  background-image: url("files/logo-header.png");
-}
-
-img .page-header {
-  text-align: left;
-  padding-left: 80px;
-  padding-top: 56px;
-  background-image: url("img/menu-header.svg");
 } 
 
 .hero-image {
@@ -63,20 +48,35 @@ img .page-header {
   text-align: center;
 }
 
-.heading {
-  margin: 0 0 16px;
-  font-family: "LibreBaskerville", regular;
-  font-size: 88px;
-  line-height: 96px;
-  font-weight: 400;
-}
-
 .hero-image p {
   margin: 0;
   font-size: 32px;
   line-height: 48px;
 }
 
+.intro {
+  margin-top: 146px;
+  margin-bottom: 72px;
+  text-align: center;
+}
+
+.intro h2 {
+ font-family: "LibreBaskerville", normal; 
+ font-weight: 400;
+font-size: 48px;
+line-height: 72px;
+text-align: center;
+color: #000000;
+}
+
+.intro p {
+  font-family: "Source Sans Pro", normal; 
+  font-weight: 400;
+ font-size: 28px;
+ line-height: 40px;
+ text-align: center;
+ color: #444444;
+ }
 
 .page-footer {
   padding: 40px 0;
