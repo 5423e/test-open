@@ -121,14 +121,21 @@ vertical-align: top;
 
 .intro h3,
 .about-us h3 {
+  font-family: "Libre Baskerville";
   margin: 0 0 12px;
-  font-size: 28px;
-  line-height: 40px;
-  font-weight: 500;
+  font-size: 48px;
+  line-height: 72px;
+  font-weight: 400;
+  text-align: center;
 }
 
 .intro p {
+  font-family: "Source Sans Pro";
+  font-size: 28px;
+  line-height: 40px;
+  font-weight: 400;
   margin: 0 0 32px;
+  text-align: center;
 }
 
 .skills-list {
