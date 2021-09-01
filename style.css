@@ -17,6 +17,11 @@ body {
   font-weight: 400;
   src: local("LibreBaskerville"),
   url("/fonts/LibreBaskerville.ttf") format("ttf");
+  font-family: "Source Sans Pro";
+  font-style: normal;
+  font-weight: 400;
+  src: local("LibreBaskerville"),
+  url("/fonts/Source Sans Pro.ttf") format("ttf");
 }
 
 .hero-image {
