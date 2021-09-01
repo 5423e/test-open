@@ -38,14 +38,14 @@ body {
   background-position: left;
 }
 
-.header-logo {
+header-logo {
   text-align: right;
   padding-left: 80px;
   padding-top: 56px;
   background-image: url("img/logo-header.svg");
 }
 
-.header-menu {
+header-menu {
   text-align: left;
   padding-left: 80px;
   padding-top: 56px;
