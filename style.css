@@ -44,7 +44,7 @@ img .page-header {
   text-align: right;
   padding-left: 80px;
   padding-top: 56px;
-  background-image: url("img/logo-header.png");
+  background-image: url("files/logo-header.png");
 }
 
 img .page-header {
@@ -65,7 +65,7 @@ img .page-header {
 
 .heading {
   margin: 0 0 16px;
-  font-family: "Roboto", bold;
+  font-family: "LibreBaskerville", regular;
   font-size: 88px;
   line-height: 96px;
   font-weight: 400;
@@ -80,7 +80,7 @@ img .page-header {
 h2 {
   font-size: 48;
   font-style: normal;
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-family: LibreBaskerville;
 }
 .intro {
   margin: 0 0 120px;
@@ -88,7 +88,7 @@ h2 {
 
 .subheading {
   margin: 0 0 56px;
-  font-family: "Roboto", bold;
+  font-family: "LibreBaskerville", regular;
   font-size: 64px;
   line-height: 80px;
   font-weight: 400;
@@ -125,13 +125,6 @@ h2 {
   background-position: left;
 }
 
-.skill-html {
-  background-image: url("img/icon-html.svg");
-}
-
-.skill-css {
-  background-image: url("img/icon-css.svg");
-}
 
 .level {
   margin: 4px 0 16px;
