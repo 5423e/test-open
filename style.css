@@ -31,15 +31,6 @@ body {
   color:#ffffff
 }
 
-.page-header {
-  font-family: "Libre Baskerville", normal;
-  font-weight: 400;
-  color:#ffffff;
-  font-size: 50px;
-  margin: 0 0 160px;
-  padding: 32px 0 32px;
-}
-
 .hero-image {
   margin-bottom: 620px;
 }
@@ -49,12 +40,22 @@ body {
   text-align: center;
 }
 
+.hero-image h1 {
+  font-family: "Libre Baskerville", normal;
+  font-weight: 400;
+  color:#ffffff;
+  font-size: 90px;
+  margin: 0 0 160px;
+  padding: 32px 0 32px;
+}
+
 .hero-image p {
   font-family: "Source Sans Pro", normal;
   margin: 0;
   font-size: 44px;
   font-weight: 400;
   line-height: 48px;
+  color:#ffffff
 }
 
 .intro {
