@@ -65,8 +65,8 @@ body {
 
 .hero-image .container {
   max-width: 1408px;
+  padding-top: 424px;
   text-align: center;
-  vertical-align: center;
   color:#ffffff
 }
 
