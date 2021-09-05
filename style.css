@@ -1,27 +1,14 @@
 body {
   margin: 0;
   min-width: 960px;
-  font-family: "LibreBaskerville", regular;
+  font-family: "Montserrat", "Helvetica", "Arial", sans-serif;
   font-size: 16px;
   line-height: 32px;
-  color: #000000;
+  color: #222222;
   background-color: #f2f4f6;
-  background-image: url("img/hero-bg.png");
+  background-image: url("img/hero-bg.jpg");
   background-repeat: no-repeat;
   background-position: top center;
-}
-
-@font-face {
-  font-family: "LibreBaskerville";
-  font-style: normal;
-  font-weight: 400;
-  src: local("LibreBaskerville"),
-  url("/fonts/LibreBaskerville.ttf") format("ttf");
-  font-family: "Source Sans Pro";
-  font-style: normal;
-  font-weight: 400;
-  src: local("LibreBaskerville"),
-  url("/fonts/Source Sans Pro.ttf") format("ttf");
 }
 
 .container {
