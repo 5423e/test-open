@@ -14,10 +14,10 @@
 body {
   margin: 0;
   min-width: 960px;
-  font-family: "LibreBaskerville", "Source Sans Pro";
+  font-family: "LibreBaskerville", "Source Sans Pro" regular;
   font-size: 16px;
   line-height: 32px;
-  color: #ffffff;
+  color: #444444;
   background-color: #f2f4f6;
   background-image: url("img/hero-bg.png");
   background-repeat: no-repeat;
@@ -70,7 +70,7 @@ body {
 
 .heading {
   margin: 0 0 16px;
-  font-family: "LibreBaskerville", "Source Sans Pro";
+  font-family: "LibreBaskerville", "Source Sans Pro" regular;
   font-size: 88px;
   line-height: 96px;
   font-weight: 400;
@@ -88,7 +88,7 @@ body {
 
 .subheading {
   margin: 0 0 56px;
-  font-family: "LibreBaskerville", "Source Sans Pro";
+  font-family: "LibreBaskerville", "Source Sans Pro" regular;
   font-size: 64px;
   line-height: 80px;
   font-weight: 400;
