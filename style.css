@@ -25,7 +25,7 @@ body {
 }
 
 .container {
-  max-width: 928px;
+  max-width: 960px;
   margin: 0 auto;
   padding: 0 16px;
 }
@@ -37,7 +37,7 @@ body {
 
 .page-header .container,
 .page-footer .container {
-  max-width: 1408px;
+  max-width: 1440px;
   text-align: right;
 }
 
@@ -65,14 +65,14 @@ body {
 
 .hero-image .container {
   max-width: 1408px;
-  padding-top: 424px;
+  padding-top: 224px;
   text-align: center;
   color:#ffffff
 }
 
 .heading {
   margin: 0 0 16px;
-  font-family: "LibreBaskerville", "Source Sans Pro" regular;
+  font-family: "Source Sans Pro" regular;
   font-size: 88px;
   line-height: 96px;
   font-weight: 400;
@@ -90,7 +90,7 @@ body {
 
 .subheading {
   margin: 0 0 56px;
-  font-family: "LibreBaskerville", "Source Sans Pro" regular;
+  font-family: "Source Sans Pro" regular;
   font-size: 64px;
   line-height: 80px;
   font-weight: 400;
