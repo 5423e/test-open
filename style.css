@@ -4,17 +4,13 @@
   font-weight: 400;
   src: local("LibreBaskerville"),
   url("/fonts/LibreBaskerville.ttf") format("ttf");
-  font-family: "Source Sans Pro";
-  font-style: normal;
-  font-weight: 400;
-  src: local("Source Sans Pro"),
-  url("/fonts/Source Sans Pro.ttf") format("ttf");
+  
 }
 
 body {
   margin: 0;
   min-width: 960px;
-  font-family: "LibreBaskerville", "Source Sans Pro" regular;
+  font-family: "LibreBaskerville", "Roboto" regular;
   font-size: 16px;
   line-height: 32px;
   color: #444444;
@@ -72,7 +68,7 @@ body {
 
 .heading {
   margin: 0 0 16px;
-  font-family: "Source Sans Pro" regular;
+  font-family: "Roboto" regular;
   font-size: 88px;
   line-height: 96px;
   font-weight: 400;
@@ -82,7 +78,7 @@ body {
   margin: 0;
   font-size: 32px;
   line-height: 48px;
-  font-family: "Source Sans Pro" regular;
+  font-family: "Roboto" regular;
 }
 
 .intro {
@@ -91,7 +87,7 @@ body {
 
 .subheading {
   margin: 0 0 56px;
-  font-family: "Source Sans Pro" regular;
+  font-family: "Roboto" regular;
   font-size: 64px;
   line-height: 80px;
   font-weight: 400;
@@ -113,7 +109,7 @@ body {
 
 .intro p {
   margin: 0 0 32px;
-  font-family: "Source Sans Pro" regular;
+  font-family: "Roboto" regular;
   color:black
 }
 
